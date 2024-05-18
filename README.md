@@ -22,3 +22,5 @@ MTRANS: ¿Qué transporte utiliza habitualmente?
 NObeyesdad: Nivel de obesidad
 
 La variable objetivo es el nivel de obesidad.
+
+Para esto se  han creado
